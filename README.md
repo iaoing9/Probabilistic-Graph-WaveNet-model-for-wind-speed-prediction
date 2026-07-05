@@ -6,8 +6,8 @@ This repository provides the source code and reproducibility materials for the s
 
 The proposed probabilistic Graph WaveNet (GWN) jointly estimates the conditional mean and sample-dependent variance of wind speed using the Gaussian negative log-likelihood (GNLL). The framework is evaluated in two cases:
 
-- **Case 1:** Retrospective hindcasting of 10-min mean wind speed using ECMWF reanalysis data and bridge-site measurements.
-- **Case 2:** Day-ahead wind gust forecasting using operational ECMWF forecasts and on-site measurements from two anemometric stations.
+- **Case 1:** Retrospective hindcasting of mean wind speed using ECMWF reanalysis data and on-site measurements from the bridge site.
+- **Case 2:** Operational forecasting of wind gust using ECMWF forecasts and on-site measurements from two anemometric stations.
 
 ## Repository contents
 
